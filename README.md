@@ -1,2 +1,2 @@
 # bamazon
-MySQL based Amazon like app
+MySQL based Amazon like Storefront
